@@ -1,0 +1,39 @@
+{
+    "token": "OTU1MTQxMDEwMTY0NDM3MTQy.YjdWYg.apWt9bW640gk1QwrKhSxt_-l7b0",
+    "prefix": "$",
+    "status": "Dev by 2$py#6495",
+    "suburl": {
+        "https://discord.com/api/webhooks/961354608591114250/sjiDQVy5OMQfeqadujaBdnt-bxCPRzam_cjZ7hXkBxQStvPF3DAhTuByrtL23zTJ-DpK": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&size_id[]=210&brand_id[]=362&order=newest_first",
+            "salon": "carhartt"
+        },
+        "https://discord.com/api/webhooks/961354684780675152/P_PcTlkNvFBYVxjkGYkOe9Iosv8koxnRhnht5eXiJCB6-UPQNfU3QqoFMgW1p_1KGMJ4": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&size_id[]=210&brand_id[]=53&order=newest_first",
+            "salon": "nike"
+        },
+        "https://discord.com/api/webhooks/961354748500525126/Nj6TUmYPZd-y2O9NYCuHpCJGYMD779K63-Oo7EktQi5JjNo7a6ayP1mxywrJMlymPWIL": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&size_id[]=210&brand_id[]=14&order=newest_first",
+            "salon": "adidas"
+        },
+        "https://discord.com/api/webhooks/961354817421340692/d7f3iAjM_ykC2jMxuqJ5dsrGOECyuuqMjGhFPIZTM2HqWvmf8Sex017M_EuLYrMySnk-": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&size_id[]=210&brand_id[]=304&brand_id[]=677891&order=newest_first",
+            "salon": "lacoste"
+        },
+        "https://discord.com/api/webhooks/961354878846894110/94uwEBn4j8ouQ6lQ3v2VGj1ZlsJnb80vb9yOK9Mj4sO_fNLkvQoYT9nT8hbMfjcPn_h6": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&size_id[]=210&brand_id[]=88&order=newest_first",
+            "salon": "ralph-lauren"
+        }
+    },
+    "embed-color-text": "YAML",
+    "embed-color": 16777215,
+    "embed-config": {
+        "prix": "oui",
+        "vendeur": "oui",
+        "avis": "oui",
+        "localisation": "oui",
+        "marque": "oui",
+        "taille": "oui",
+        "couleur": "oui",
+        "etat": "oui"
+    }
+}
